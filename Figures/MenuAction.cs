@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Figures
 {
-    public class Menu
+    public class MenuAction
     {
         public int Id { get; set; }
         public string Name { get; set; }
